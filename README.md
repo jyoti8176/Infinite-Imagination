@@ -10,3 +10,4 @@ It encompasses two key functionalities: Image Enhancer and Generative AI. The Im
 
 The Generative AI section empowers users to unleash their creativity. It allows generating entirely new images based on textual descriptions through the power of stable diffusion AI models. Furthermore, it provides functionalities to replace objects within images seamlessly and modify backgrounds of specific elements using segmentation and inpainting techniques. Users can even remove unwanted objects altogether, combining the capabilities of segmentation models with LAMA (Large Adaptive Multi-Modal Transformer) for a comprehensive solution.
 
+**NOTE: This is an internship project. The dataset added in this repository contains dummy data and should not be treated as original.**
