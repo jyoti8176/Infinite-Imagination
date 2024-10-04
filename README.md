@@ -1,4 +1,4 @@
-# Infinite-Imagination
+# Infinite Imagination
 A Journey into Generative AI
 
 The digital age has revolutionized image creation and manipulation. However, restoring damaged photos, enhancing facial features, or breathing life into black and white images can be time-consuming and require specialized skills. Additionally, generating entirely new visuals or modifying existing ones often necessitates artistic expertise.
